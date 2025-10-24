@@ -130,6 +130,13 @@ body {
   font-size: 1rem;
   margin-bottom: 1rem;
 }
+
+.content-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .solid-section {
   background-color: #292828;
   color: white;
